@@ -1,0 +1,3 @@
+decrypt
+output.bmp
+1234
